@@ -8,8 +8,6 @@ Fresh Harvest is a modern and responsive e-commerce website where users can buy 
 ### **Admin Login (For Check)**
 - **Email**: john.doe@example.com
 
-### Repository Link
-- **Client:** https://github.com/ashikbillah699/FreshHarvests
 
 ### Technical Usage
 #### **Frontend:**
